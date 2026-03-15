@@ -1,3 +1,4 @@
+这是我在大学学习电子信息时，写的第一个python串口通信练手项目，用来熟悉UART收发和GitHub开源流程
 # UART Serial Communication Demo
 
 一个基于 Python 的串口通信入门演示项目，使用虚拟串口对实现收发数据的完整链路。
@@ -17,3 +18,6 @@
 ```bash
 git clone https://github.com/yy0518-MagYon/uart-demo.git
 cd uart-demo
+
+#结果图
+![串口程序运行效果](images-yy0518/串口运行效果.png)
